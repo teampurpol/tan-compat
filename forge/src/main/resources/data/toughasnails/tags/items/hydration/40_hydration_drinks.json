@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "herbalbrews:lavender_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:rooibos_tea",
+      "required": false
+    },
+    {
+      "id": "meadow:wooden_grain_milk_bucket",
+      "required": false
+    }
+  ]
+}

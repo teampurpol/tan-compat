@@ -1,0 +1,14 @@
+{
+  "name": "tan-compat-datagen",
+  "module": "gen.ts",
+  "type": "module",
+  "scripts": {
+    "gen": "bun run gen.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

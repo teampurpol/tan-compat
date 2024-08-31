@@ -1,0 +1,233 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "valhelsia_structures:brazier",
+      "required": false
+    },
+    {
+      "id": "mcwlights:oak_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:spruce_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:birch_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:jungle_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:acacia_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:dark_oak_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:crimson_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:warped_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:mangrove_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:bamboo_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:cherry_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:classic_street_lamp",
+      "required": false
+    },
+    {
+      "id": "mcwlights:double_street_lamp",
+      "required": false
+    },
+    {
+      "id": "mcwlights:lava_lamp",
+      "required": false
+    },
+    {
+      "id": "mcwlights:striped_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:covered_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:chain_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:tavern_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:festive_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:cross_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:bell_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:wall_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:striped_wall_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:covered_wall_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:chain_wall_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:tavern_wall_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:festive_wall_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:cross_wall_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:bell_wall_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:framed_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:iron_framed_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:reinforced_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:rustic_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:upgraded_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:copper_low_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:copper_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:copper_wall_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:copper_double_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:copper_triple_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:small_copper_chandelier",
+      "required": false
+    },
+    {
+      "id": "mcwlights:coper_chandelier",
+      "required": false
+    },
+    {
+      "id": "mcwlights:iron_low_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:iron_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:iron_wall_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:iron_double_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:iron_triple_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:small_iron_chandelier",
+      "required": false
+    },
+    {
+      "id": "mcwlights:iron_chandelier",
+      "required": false
+    },
+    {
+      "id": "mcwlights:low_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:wall_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:double_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:triple_candle_holder",
+      "required": false
+    },
+    {
+      "id": "mcwlights:small_golden_chandelier",
+      "required": false
+    },
+    {
+      "id": "mcwlights:golden_chandelier",
+      "required": false
+    },
+    {
+      "id": "paraglider:goron_goddess_statue",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farm_and_charm:strawberry_tea",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm:nettle_tea",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm:ribwort_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:green_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:black_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:hibiscus_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:yerba_mate_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:oolong_tea",
+      "required": false
+    },
+    {
+      "id": "meadow:wooden_warped_milk_bucket",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "herbalbrews:coffee",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:milk_coffee",
+      "required": false
+    },
+    {
+      "id": "meadow:wooden_amethyst_milk_bucket",
+      "required": false
+    }
+  ]
+}

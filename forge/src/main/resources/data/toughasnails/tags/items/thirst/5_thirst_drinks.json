@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "herbalbrews:lavender_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:rooibos_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:coffee",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm:strawberry_tea_cup",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm:nettle_tea_cup",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm:ribwort_tea_cup",
+      "required": false
+    },
+    {
+      "id": "meadow:wooden_milk_bucket",
+      "required": false
+    },
+    {
+      "id": "meadow:wooden_sheep_milk_bucket",
+      "required": false
+    },
+    {
+      "id": "meadow:wooden_buffalo_milk_bucket",
+      "required": false
+    },
+    {
+      "id": "meadow:wooden_goat_milk_bucket",
+      "required": false
+    },
+    {
+      "id": "meadow:wooden_grain_milk_bucket",
+      "required": false
+    }
+  ]
+}

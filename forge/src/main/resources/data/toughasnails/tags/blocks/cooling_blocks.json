@@ -1,0 +1,77 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "valhelsia_structures:soul_brazier",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_oak_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_spruce_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_birch_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_jungle_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_acacia_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_dark_oak_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_crimson_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_warped_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_mangrove_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_bamboo_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_cherry_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_classic_street_lamp",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_double_street_lamp",
+      "required": false
+    },
+    {
+      "id": "paraglider:goddess_statue",
+      "required": false
+    },
+    {
+      "id": "paraglider:kakariko_goddess_statue",
+      "required": false
+    },
+    {
+      "id": "paraglider:rito_goddess_statue",
+      "required": false
+    },
+    {
+      "id": "paraglider:horned_statue",
+      "required": false
+    }
+  ]
+}
